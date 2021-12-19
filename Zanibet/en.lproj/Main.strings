@@ -1,0 +1,374 @@
+
+/* Class = "UITextField"; placeholder = "Nom d'utilisateur"; ObjectID = "0QR-sz-qrb"; */
+"0QR-sz-qrb.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0be-Z2-pHc"; */
+"0be-Z2-pHc.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "13H-rK-cmy"; */
+"13H-rK-cmy.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3B9-5u-NTd"; */
+"3B9-5u-NTd.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Adresse PayPal"; ObjectID = "3vS-28-d4m"; */
+"3vS-28-d4m.placeholder" = "PayPal Address";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4CK-im-prl"; */
+"4CK-im-prl.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4j0-vN-K2d"; */
+"4j0-vN-K2d.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "57x-ld-Vvh"; */
+"57x-ld-Vvh.text" = "Label";
+
+/* Class = "UILabel"; text = "Grille jouées :"; ObjectID = "5Rj-qw-W7A"; */
+"5Rj-qw-W7A.text" = "Grille jouées :";
+
+/* Class = "UIButton"; normalTitle = "Rejouer"; ObjectID = "5ic-6P-O3Z"; */
+"5ic-6P-O3Z.normalTitle" = "Replay";
+
+/* Class = "UILabel"; text = "Rejoue maintenant pour augmenter tes chances de gagner le jackpot."; ObjectID = "6uk-Mx-3Ge"; */
+"6uk-Mx-3Ge.text" = "Replay this ticket now for increase your chance to win the jackpot.";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "6we-p5-Atk"; */
+"6we-p5-Atk.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6z9-B7-NTj"; */
+"6z9-B7-NTj.text" = "Label";
+
+/* Class = "UILabel"; text = "VOS RÉCOMPENSES"; ObjectID = "7WB-ds-Z8h"; */
+"7WB-ds-Z8h.text" = "YOUR REWARDS";
+
+/* Class = "UITextField"; placeholder = "Adresse email"; ObjectID = "81p-OG-nuY"; */
+"81p-OG-nuY.placeholder" = "Email address";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9gQ-ss-xZP"; */
+"9gQ-ss-xZP.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aqo-2A-6Sc"; */
+"Aqo-2A-6Sc.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Awx-Bm-rfk"; */
+"Awx-Bm-rfk.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "JE POSSÈDE DÉJÀ UN COMPTE"; ObjectID = "BUF-1Q-dFZ"; */
+"BUF-1Q-dFZ.normalTitle" = "I'M ALREADY REGISTRED";
+
+/* Class = "UITextField"; placeholder = "Prénom"; ObjectID = "Bhf-7z-ADM"; */
+"Bhf-7z-ADM.placeholder" = "Firstname";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ctj-PL-h0o"; */
+"Ctj-PL-h0o.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Vous avez oublié votre mot de passe ?"; ObjectID = "DV2-vz-PzD"; */
+"DV2-vz-PzD.normalTitle" = "You forget your password ?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EQk-OA-rvj"; */
+"EQk-OA-rvj.text" = "Label";
+
+/* Class = "UILabel"; text = "Règles du jeu"; ObjectID = "ETp-Pw-Sx1"; */
+"ETp-Pw-Sx1.text" = "Game rules";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Eho-rB-IGe"; */
+"Eho-rB-IGe.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FYt-3o-wJs"; */
+"FYt-3o-wJs.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GcX-mJ-hOc"; */
+"GcX-mJ-hOc.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Boutique"; ObjectID = "Gtz-6j-yVc"; */
+"Gtz-6j-yVc.title" = "Shop";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Gur-Ax-7V8"; */
+"Gur-Ax-7V8.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HNh-Wu-hfm"; */
+"HNh-Wu-hfm.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HXM-CU-2CC"; */
+"HXM-CU-2CC.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Nous joindre email"; ObjectID = "HcI-AR-tHi"; */
+"HcI-AR-tHi.normalTitle" = "Join us by email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hzu-98-XK6"; */
+"Hzu-98-XK6.text" = "Label";
+
+/* Class = "UILabel"; text = "Création d'un compte"; ObjectID = "Ihc-FP-7Pj"; */
+"Ihc-FP-7Pj.text" = "Create an account";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "J2p-fh-GCt"; */
+"J2p-fh-GCt.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JBs-CH-VOL"; */
+"JBs-CH-VOL.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JiX-63-laH"; */
+"JiX-63-laH.text" = "Label";
+
+/* Class = "UILabel"; text = "Match"; ObjectID = "Jse-4F-Z3b"; */
+"Jse-4F-Z3b.text" = "Match";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "K3i-DK-Ojo"; */
+"K3i-DK-Ojo.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Effacer"; ObjectID = "KZ0-ZO-TtP"; */
+"KZ0-ZO-TtP.normalTitle" = "Clear";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LYA-6A-rvo"; */
+"LYA-6A-rvo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LvQ-zf-7Iw"; */
+"LvQ-zf-7Iw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MTY-Pn-tMp"; */
+"MTY-Pn-tMp.text" = "Label";
+
+/* Class = "UILabel"; text = "Chargement en cours..."; ObjectID = "MUv-QT-Ge7"; */
+"MUv-QT-Ge7.text" = "Loading...";
+
+/* Class = "UIButton"; normalTitle = "Créer mon compte"; ObjectID = "Nlk-Ac-vKp"; */
+"Nlk-Ac-vKp.normalTitle" = "Create my account";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "P6P-qW-Q2U"; */
+"P6P-qW-Q2U.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Code postal"; ObjectID = "PuK-sF-JZt"; */
+"PuK-sF-JZt.placeholder" = "Zipcode";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q2E-xM-TQ1"; */
+"Q2E-xM-TQ1.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Mon profil"; ObjectID = "Q4z-TR-fhp"; */
+"Q4z-TR-fhp.title" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Restaurer mon mot de passe"; ObjectID = "R0Z-Ty-dmu"; */
+"R0Z-Ty-dmu.normalTitle" = "Reset my password";
+/* Class = "UILabel"; text = "Label"; ObjectID = "S5S-Ks-WEI"; */
+"S5S-Ks-WEI.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SE0-g8-Na2"; */
+"SE0-g8-Na2.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T8b-Xp-Xmw"; */
+"T8b-Xp-Xmw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TBk-Ee-E99"; */
+"TBk-Ee-E99.text" = "Label";
+
+/* Class = "UILabel"; text = "Grilles jouées: "; ObjectID = "TdQ-5i-LO6"; */
+"TdQ-5i-LO6.text" = "Played grids: ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UDd-4A-kKG"; */
+"UDd-4A-kKG.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UXO-Rb-8oK"; */
+"UXO-Rb-8oK.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Adresse email"; ObjectID = "Vh7-MU-dnZ"; */
+"Vh7-MU-dnZ.placeholder" = "Email address";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VuB-fh-fSL"; */
+"VuB-fh-fSL.text" = "Label";
+
+/* Class = "UILabel"; text = "VS"; ObjectID = "Wur-8d-ogg"; */
+"Wur-8d-ogg.text" = "VS";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "X1N-1z-GlI"; */
+"X1N-1z-GlI.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XJR-4v-cFJ"; */
+"XJR-4v-cFJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Bravo\nVotre grille a été validée.\nNous vous souhaitons désormais bonne chance pour remporter le jackpot !"; ObjectID = "XmC-6p-WVn"; */
+"XmC-6p-WVn.text" = "Bravo\nYour grid has been validated.\nWe wish you good luck for win the jackpot !";
+
+/* Class = "UITextView"; text = "ZaniBet est un jeu réservé aux adultes de 18 ans et plus.\n\n1 - Chaque semaine des tickets de jeu correspondant à différents championnats de football sont ouvert aux joueurs. Le but du jeu est de trouver les bons résultats pour une série de matchs présents dans un ticket.  \n\n2 – Les résultats d’un match sont basés sur le temps réglementaire et ne prennent donc pas en compte d’éventuelles prolongations/tirs au but. Dans le cas où un match présent dans le ticket de jeu est annulé : votre pronostic pour celui-ci sera considéré comme gagnant. Si 2 matchs ou plus sont annulés dans un ticket de jeu : le jackpot du ticket est annulé et les grilles ayant été joué seront récompensées uniquement en ZaniCoin.  \n\n3 – Pour valider une grille pour un ticket, vous devez cocher la case correspondant à votre pronostique pour toutes les lignes de match. \n1 = victoire pour l’équipe à domicile \nN = match nul \n2 = victoire pour l’équipe visiteuse  \n\n4 – Votre grille sera validée à partir du moment où vous aurez coché au moins pronostique par ligne de match et visionner une publicité vidéo jusqu’à la fin.  \n\n5 – Le bouton « Flash » permet de remplir des pronostics aléatoires pour tous les matchs d’une grille.  \n\n6 – Le bouton « Effacer » réinitialise tous les pronostics indiqués pour une grille.  \n\n7 – Les joueurs ayant réalisé une grille sans-faute sur un ticket de jeu, se partagent le jackpot ! Si un joueur valide plusieurs grilles sans-faute pour un ticket de jeu, il empoche une plus grande part du jackpot.  \nExemple : 10 grilles gagnantes ont été validé pour le ticket « Ligue 1 Jackpot 1000€ ». Parmi les 10 grilles gagnantes, 2 ont été validées par Pierre. Le jackpot est donc divisé par 10 et Pierre remporte 200€ !  \n\n8 – Tous les paiements des gains se font par PayPal sous un délai de 30 jours.  \n\n9 – Même si une grille jouée n’est pas sans faute, chaque pronostic gagnant rapporte des points de fidélité (ZaniCoin). Ces points peuvent être par la suite échangés dans la boutique contre du cash. "; ObjectID = "YpA-vj-wKz"; */
+"YpA-vj-wKz.text" = "ZaniBet est un jeu réservé aux adultes de 18 ans et plus.\n\n1 - Chaque semaine des tickets de jeu correspondant à différents championnats de football sont ouvert aux joueurs. Le but du jeu est de trouver les bons résultats pour une série de matchs présents dans un ticket.  \n\n2 – Les résultats d’un match sont basés sur le temps réglementaire et ne prennent donc pas en compte d’éventuelles prolongations/tirs au but. Dans le cas où un match présent dans le ticket de jeu est annulé : votre pronostic pour celui-ci sera considéré comme gagnant. Si 2 matchs ou plus sont annulés dans un ticket de jeu : le jackpot du ticket est annulé et les grilles ayant été joué seront récompensées uniquement en ZaniCoin.  \n\n3 – Pour valider une grille pour un ticket, vous devez cocher la case correspondant à votre pronostique pour toutes les lignes de match. \n1 = victoire pour l’équipe à domicile \nN = match nul \n2 = victoire pour l’équipe visiteuse  \n\n4 – Votre grille sera validée à partir du moment où vous aurez coché au moins pronostique par ligne de match et visionner une publicité vidéo jusqu’à la fin.  \n\n5 – Le bouton « Flash » permet de remplir des pronostics aléatoires pour tous les matchs d’une grille.  \n\n6 – Le bouton « Effacer » réinitialise tous les pronostics indiqués pour une grille.  \n\n7 – Les joueurs ayant réalisé une grille sans-faute sur un ticket de jeu, se partagent le jackpot ! Si un joueur valide plusieurs grilles sans-faute pour un ticket de jeu, il empoche une plus grande part du jackpot.  \nExemple : 10 grilles gagnantes ont été validé pour le ticket « Ligue 1 Jackpot 1000€ ». Parmi les 10 grilles gagnantes, 2 ont été validées par Pierre. Le jackpot est donc divisé par 10 et Pierre remporte 200€ !  \n\n8 – Tous les paiements des gains se font par PayPal sous un délai de 30 jours.  \n\n9 – Même si une grille jouée n’est pas sans faute, chaque pronostic gagnant rapporte des points de fidélité (ZaniCoin). Ces points peuvent être par la suite échangés dans la boutique contre du cash. ";
+
+/* Class = "UIButton"; normalTitle = "Sauvegarder"; ObjectID = "Z9n-pT-pIz"; */
+"Z9n-pT-pIz.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Sauvegarder"; ObjectID = "ZiN-Vh-q5u"; */
+"ZiN-Vh-q5u.normalTitle" = "Save";
+
+/* Class = "UITabBarItem"; title = "Mes grilles"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "My grids";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ahd-x7-QUa"; */
+"ahd-x7-QUa.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "b4S-uI-wO1"; */
+"b4S-uI-wO1.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Jouer"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Play";
+
+/* Class = "UITextField"; placeholder = "Adresse email"; ObjectID = "cg8-Ip-vJi"; */
+"cg8-Ip-vJi.placeholder" = "Email address";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "chK-zI-JHc"; */
+"chK-zI-JHc.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Ville"; ObjectID = "d3i-Wf-CRL"; */
+"d3i-Wf-CRL.placeholder" = "City";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "d97-d4-zbn"; */
+"d97-d4-zbn.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Retour"; ObjectID = "e9w-Uw-usN"; */
+"e9w-Uw-usN.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eVG-WC-UYs"; */
+"eVG-WC-UYs.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Se connecter"; ObjectID = "fIN-nk-ev8"; */
+"fIN-nk-ev8.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "OÙ"; ObjectID = "fev-Lc-C9G"; */
+"fev-Lc-C9G.text" = "OR";
+
+/* Class = "UITextField"; placeholder = "Adresse postale"; ObjectID = "giE-Iw-C7k"; */
+"giE-Iw-C7k.placeholder" = "Address";
+
+/* Class = "UIButton"; normalTitle = "Noter notre application"; ObjectID = "gz5-cp-c3K"; */
+"gz5-cp-c3K.normalTitle" = "Rate our app";
+
+/* Class = "UILabel"; text = "Les confrontations"; ObjectID = "h00-gP-uOZ"; */
+"h00-gP-uOZ.text" = "Show all fixtures";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hem-Eq-zJy"; */
+"hem-Eq-zJy.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hkv-RZ-0Xe"; */
+"hkv-RZ-0Xe.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Visiter notre page Facebook"; ObjectID = "hoB-nT-GdF"; */
+"hoB-nT-GdF.normalTitle" = "Check our Facebook Page";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "iI8-rO-JcY"; */
+"iI8-rO-JcY.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iMD-8X-lgh"; */
+"iMD-8X-lgh.text" = "Label";
+
+/* Class = "UILabel"; text = "GAIN POTENTIEL"; ObjectID = "iUZ-Y7-bHs"; */
+"iUZ-Y7-bHs.text" = "POTENTIAL REWARD";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jVy-0I-hiK"; */
+"jVy-0I-hiK.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Nom d'utilisateur"; ObjectID = "jti-h9-CAz"; */
+"jti-h9-CAz.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "k9a-Ur-vhz"; */
+"k9a-Ur-vhz.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Pays"; ObjectID = "kSz-Hc-oOt"; */
+"kSz-Hc-oOt.placeholder" = "Country";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kbB-fA-S2x"; */
+"kbB-fA-S2x.text" = "Label";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "l7t-NC-6b5"; */
+"l7t-NC-6b5.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lRl-Jl-tzo"; */
+"lRl-Jl-tzo.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Valider ma grille"; ObjectID = "lTJ-oR-k8x"; */
+"lTJ-oR-k8x.normalTitle" = "Proceed grid";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "le4-TS-a62"; */
+"le4-TS-a62.text" = "Label";
+
+/* Class = "UISegmentedControl"; ltV-oO-0GP.segmentTitles[0] = "En cours"; ObjectID = "ltV-oO-0GP"; */
+"ltV-oO-0GP.segmentTitles[0]" = "Pending";
+
+/* Class = "UISegmentedControl"; ltV-oO-0GP.segmentTitles[1] = "Terminées"; ObjectID = "ltV-oO-0GP"; */
+"ltV-oO-0GP.segmentTitles[1]" = "Done";
+
+/* Class = "UISegmentedControl"; ltV-oO-0GP.segmentTitles[2] = "Gagnantes"; ObjectID = "ltV-oO-0GP"; */
+"ltV-oO-0GP.segmentTitles[2]" = "Jackpot";
+
+"ltV-oO-0GP.segmentTitles[3]" = "Jackpot";
+
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lwu-OL-gFY"; */
+"lwu-OL-gFY.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mqd-Z0-Gub"; */
+"mqd-Z0-Gub.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nCd-TR-dM1"; */
+"nCd-TR-dM1.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nD8-eY-5sT"; */
+"nD8-eY-5sT.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "nLQ-6h-eFu"; */
+"nLQ-6h-eFu.text" = "Title";
+
+/* Class = "UILabel"; text = "Vous avez rempli %1$d grilles de pronostic pour la %2$dème journée de la %3$s. Les résultats de vos grilles seront disponibles le %4$s."; ObjectID = "oUW-da-LkN"; */
+"oUW-da-LkN.text" = "Vous avez rempli %1$d grilles de pronostic pour la %2$dème journée de la %3$s. Les résultats de vos grilles seront disponibles le %4$s.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ok4-Qw-EtR"; */
+"ok4-Qw-EtR.text" = "Label";
+
+/* Class = "UILabel"; text = "VOS RÉCOMPENSES"; ObjectID = "pHZ-IJ-lPQ"; */
+"pHZ-IJ-lPQ.text" = "YOUR REWARDS";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "psF-G0-LG8"; */
+"psF-G0-LG8.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Adresse email"; ObjectID = "q0l-kq-s5D"; */
+"q0l-kq-s5D.placeholder" = "Email address";
+
+/* Class = "UILabel"; text = "Connexion"; ObjectID = "qTy-6X-2pv"; */
+"qTy-6X-2pv.text" = "Signin";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rFw-c7-SPW"; */
+"rFw-c7-SPW.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Flash"; ObjectID = "rmw-MY-CS0"; */
+"rmw-MY-CS0.normalTitle" = "Flash";
+
+/* Class = "UILabel"; text = "Mot de passe oublié"; ObjectID = "rzx-qI-Ihb"; */
+"rzx-qI-Ihb.text" = "Forgot password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vHx-if-WDy"; */
+"vHx-if-WDy.text" = "Label";
+
+/* Class = "UILabel"; text = "ZaniBet est un jeu de pronostic sportif gratuit, qui propose aux joueurs de gagner de l'argent pour leurs prédictions réussies.\n"; ObjectID = "vrG-5f-6sj"; */
+"vrG-5f-6sj.text" = "ZaniBet is a free football betting game, which claims to offer real cash and gift for clear round forecasts.";
+
+/* Class = "UIButton"; normalTitle = "Visiter le site web"; ObjectID = "wPA-Ao-dNW"; */
+"wPA-Ao-dNW.normalTitle" = "Visit website";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wdR-w3-Wje"; */
+"wdR-w3-Wje.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Nom"; ObjectID = "xF6-fx-HKm"; */
+"xF6-fx-HKm.placeholder" = "Lastname";
+
+/* Class = "UIButton"; normalTitle = "CRÉER UN NOUVEAU COMPTE"; ObjectID = "xVr-D7-szL"; */
+"xVr-D7-szL.normalTitle" = "CREATE NEW ACCOUNT";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "yG6-UM-Sky"; */
+"yG6-UM-Sky.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Grilles jouées :"; ObjectID = "yUa-Aq-Elx"; */
+"yUa-Aq-Elx.text" = "Payed grids :";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ydW-KM-cMc"; */
+"ydW-KM-cMc.text" = "Label";
+
+"qqi-jq-4Og.text" = "Label";
+"KVV-uR-rgG.text" = "Label";
+"PAP-CB-fpi.text" = "Label";
+"j6K-Ho-6R5.text" = "Label";
+"Lcg-4l-0Ws.text" = "Help";

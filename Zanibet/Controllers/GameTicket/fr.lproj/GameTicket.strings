@@ -1,0 +1,189 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0ul-hU-KDJ"; */
+"0ul-hU-KDJ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Flash"; ObjectID = "17q-9H-N8R"; */
+"17q-9H-N8R.normalTitle" = "Flash";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1YN-5G-iUZ"; */
+"1YN-5G-iUZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1iH-Dq-JsQ"; */
+"1iH-Dq-JsQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "24M-FE-rbL"; */
+"24M-FE-rbL.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Retour"; ObjectID = "2HS-2C-YDc"; */
+"2HS-2C-YDc.normalTitle" = "Retour";
+
+/* Class = "UILabel"; text = "Rejoue maintenant pour augmenter tes chances de gagner le jackpot."; ObjectID = "39m-H2-55Q"; */
+"39m-H2-55Q.text" = "Rejoue maintenant pour augmenter tes chances de gagner le jackpot.";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "3BK-fg-X4m"; */
+"3BK-fg-X4m.text" = "1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7Kk-PH-Vbp"; */
+"7Kk-PH-Vbp.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "86P-4X-3Ls"; */
+"86P-4X-3Ls.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Effacer"; ObjectID = "9c0-us-Sxm"; */
+"9c0-us-Sxm.normalTitle" = "Effacer";
+
+/* Class = "UILabel"; text = "Grille jouées :"; ObjectID = "Ac0-mb-BpW"; */
+"Ac0-mb-BpW.text" = "Grille jouées :";
+
+/* Class = "UILabel"; text = "Tous les jours ZaniBet vous offres des jetons (si votre solde est inférieur à 2 jetons), que vous pouvez utiliser pour miser sur les matchs du jour."; ObjectID = "E2a-PL-hVm"; */
+"E2a-PL-hVm.text" = "Tous les jours ZaniBet vous offres des jetons (si votre solde est inférieur à 2 jetons), que vous pouvez utiliser pour miser sur les matchs du jour.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Exh-90-qKV"; */
+"Exh-90-qKV.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "F4q-tx-7bp"; */
+"F4q-tx-7bp.text" = "-";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fui-5P-6K3"; */
+"Fui-5P-6K3.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GIi-Fb-tnK"; */
+"GIi-Fb-tnK.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GOi-sm-gfa"; */
+"GOi-sm-gfa.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Calendrier"; ObjectID = "IYI-O6-MXs"; */
+"IYI-O6-MXs.normalTitle" = "CALENDRIER";
+
+/* Class = "UIButton"; normalTitle = "Rejouer"; ObjectID = "Ihy-6D-aGd"; */
+"Ihy-6D-aGd.normalTitle" = "Rejouer";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KM1-Fl-wdT"; */
+"KM1-Fl-wdT.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LV0-Ch-wHO"; */
+"LV0-Ch-wHO.text" = "Label";
+
+/* Class = "UILabel"; text = "0 : 0"; ObjectID = "ORX-E2-N5c"; */
+"ORX-E2-N5c.text" = "0 : 0";
+
+/* Class = "UILabel"; text = "Grilles jouées :"; ObjectID = "RAU-qo-TKp"; */
+"RAU-qo-TKp.text" = "Grilles jouées :";
+
+/* Class = "UILabel"; text = "Bravo\nVotre grille a été validée.\nNous vous souhaitons désormais bonne chance pour remporter le jackpot !"; ObjectID = "RBZ-a3-Hkr"; */
+"RBZ-a3-Hkr.text" = "Bravo\nVotre grille a été validée.\nNous vous souhaitons désormais bonne chance pour remporter le jackpot !";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Slm-Eb-8ja"; */
+"Slm-Eb-8ja.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TQF-Ve-Ppc"; */
+"TQF-Ve-Ppc.text" = "Label";
+
+/* Class = "UILabel"; text = "RÉCOMPENSE"; ObjectID = "TUG-a7-4fs"; */
+"TUG-a7-4fs.text" = "RÉCOMPENSE";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "VAZ-2q-xWS"; */
+"VAZ-2q-xWS.text" = "2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VJv-MY-8MH"; */
+"VJv-MY-8MH.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vnr-VI-Lx3"; */
+"Vnr-VI-Lx3.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "X0p-AN-Tdh"; */
+"X0p-AN-Tdh.text" = "Label";
+
+/* Class = "UILabel"; text = "CÔTES DU MATCH"; ObjectID = "X2D-gs-tq5"; */
+"X2D-gs-tq5.text" = "CÔTES DU MATCH";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XiV-Xd-QpH"; */
+"XiV-Xd-QpH.text" = "-";
+
+/* Class = "UILabel"; text = "Olympique de marseille"; ObjectID = "Y1b-4E-Flu"; */
+"Y1b-4E-Flu.text" = "Olympique de marseille";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZUV-ES-dEx"; */
+"ZUV-ES-dEx.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Obtenir plus de jetons"; ObjectID = "a1R-HS-7AZ"; */
+"a1R-HS-7AZ.normalTitle" = "Obtenir plus de jetons";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aSz-b5-9VL"; */
+"aSz-b5-9VL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Match"; ObjectID = "cWI-zR-TM1"; */
+"cWI-zR-TM1.text" = "Match";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "die-yW-Ulq"; */
+"die-yW-Ulq.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fta-Zh-CVC"; */
+"fta-Zh-CVC.text" = "-";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hnB-Wk-7xL"; */
+"hnB-Wk-7xL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ibO-vP-Cdt"; */
+"ibO-vP-Cdt.text" = "Label";
+
+/* Class = "UILabel"; text = "VS"; ObjectID = "klU-qs-xm5"; */
+"klU-qs-xm5.text" = "VS";
+
+/* Class = "UIButton"; normalTitle = "Valider ma grille"; ObjectID = "lSE-qu-bwL"; */
+"lSE-qu-bwL.normalTitle" = "Valider ma grille";
+
+/* Class = "UILabel"; text = "Paris Saint Germain"; ObjectID = "mI4-kL-6ba"; */
+"mI4-kL-6ba.text" = "Paris Saint Germain";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "q3g-SJ-hNs"; */
+"q3g-SJ-hNs.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qAj-fM-Hcm"; */
+"qAj-fM-Hcm.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qdk-Lr-TMH"; */
+"qdk-Lr-TMH.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rBm-RZ-LXZ"; */
+"rBm-RZ-LXZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Il vous reste 4 jetons"; ObjectID = "tll-eG-TMS"; */
+"tll-eG-TMS.text" = "Il vous reste 4 jetons";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u8e-kV-bFR"; */
+"u8e-kV-bFR.text" = "Label";
+
+/* Class = "UILabel"; text = "Les côtes proposées par ZaniBet sont mises à jour toutes les heures et sont basées sur notre algorithme d'analyse de différents bookmakers."; ObjectID = "vyA-Me-NDx"; */
+"vyA-Me-NDx.text" = "Les côtes proposées par ZaniBet sont mises à jour toutes les heures et sont basées sur notre algorithme d'analyse de différents bookmakers.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xeo-tW-c48"; */
+"xeo-tW-c48.text" = "Label";
+
+/* Class = "UILabel"; text = "N"; ObjectID = "zDz-DR-yg1"; */
+"zDz-DR-yg1.text" = "N";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zXe-Z3-2mP"; */
+"zXe-Z3-2mP.text" = "Label";
+
+"ZaE-Mq-97V.text" = "LE CHOIX DES JOUEURS";
+"sh0-8Z-nqE.text" = "1";
+"5KG-I8-LRL.text" = "-";
+"YXe-rE-ymr.text" = "N";
+"T4R-nU-pQP.text" = "-";
+"s9f-Ro-6MU.text" = "2";
+"wle-Jk-29U.text" = "-";
+
+"m68-5M-Y1W.text" = " ";
+"rNp-Fi-lgd.text" = " ";
+
+"Q83-fZ-Yrg.normalTitle" = " ";
+"qwL-ey-OXk.normalTitle" = " ";
+"0Pa-44-NvO.text" = " ";
+"mcF-eN-gFR.text" = " ";
+"uCA-Sx-ERj.text" = " ";
+"2dJ-6E-bXg.text" = " ";
+"gGZ-1H-GLh.text" = " ";
+"QxM-t4-Y51.text" = "VS";
+

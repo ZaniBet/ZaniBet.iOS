@@ -1,0 +1,6 @@
+framework module SwiftShareBubbles {
+  umbrella header "SwiftShareBubbles-umbrella.h"
+
+  export *
+  module * { export * }
+}

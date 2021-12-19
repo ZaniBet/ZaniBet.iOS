@@ -1,0 +1,6 @@
+framework module AdscendMedia {
+  umbrella header "AdscendMedia.h"
+
+  export *
+  module * { export * }
+}

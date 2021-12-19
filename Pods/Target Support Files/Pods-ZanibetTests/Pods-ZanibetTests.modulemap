@@ -1,0 +1,6 @@
+framework module Pods_ZanibetTests {
+  umbrella header "Pods-ZanibetTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

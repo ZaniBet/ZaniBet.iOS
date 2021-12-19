@@ -1,0 +1,6 @@
+framework module MoPub_UnityAds_Adapters {
+  umbrella header "MoPub-UnityAds-Adapters-umbrella.h"
+
+  export *
+  module * { export * }
+}

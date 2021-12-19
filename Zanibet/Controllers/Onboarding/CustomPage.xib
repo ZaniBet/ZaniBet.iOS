@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_0" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Futura.ttc">
+            <string>Futura-Bold</string>
+        </array>
+        <array key="HelveticaNeue.ttc">
+            <string>HelveticaNeue</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CustomPage" customModule="Zanibet" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="18" translatesAutoresizingMaskIntoConstraints="NO" id="qgI-ig-YKK">
+                    <rect key="frame" x="0.0" y="157" width="0.0" height="254"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_onboarding1" adjustsImageSizeForAccessibilityContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="cCw-0V-gI3">
+                            <rect key="frame" x="0.0" y="0.0" width="0.0" height="178"/>
+                            <constraints>
+                                <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="177" id="AOH-VZ-Fot"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5ut-aQ-Kji">
+                            <rect key="frame" x="0.0" y="196" width="0.0" height="22.5"/>
+                            <fontDescription key="fontDescription" name="Futura-Bold" family="Futura" pointSize="17"/>
+                            <color key="textColor" red="0.95294117649999999" green="0.95294117649999999" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xJs-QZ-6VE">
+                            <rect key="frame" x="0.0" y="236.5" width="0.0" height="17.5"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
+                            <color key="textColor" red="0.95294117649999999" green="0.95294117649999999" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="cCw-0V-gI3" secondAttribute="trailing" constant="10" id="5F4-Re-o2o"/>
+                        <constraint firstAttribute="trailing" secondItem="xJs-QZ-6VE" secondAttribute="trailing" constant="8" id="5Hj-Iz-UAD"/>
+                        <constraint firstItem="5ut-aQ-Kji" firstAttribute="leading" secondItem="qgI-ig-YKK" secondAttribute="leading" constant="8" id="NGt-o6-FF5"/>
+                        <constraint firstItem="xJs-QZ-6VE" firstAttribute="leading" secondItem="qgI-ig-YKK" secondAttribute="leading" constant="8" id="VWc-Lo-NQd"/>
+                        <constraint firstItem="cCw-0V-gI3" firstAttribute="leading" secondItem="qgI-ig-YKK" secondAttribute="leading" constant="10" id="f0E-x4-X5C"/>
+                        <constraint firstAttribute="trailing" secondItem="5ut-aQ-Kji" secondAttribute="trailing" constant="8" id="qSy-3U-VvY"/>
+                    </constraints>
+                </stackView>
+            </subviews>
+            <color key="backgroundColor" red="0.19115509089999999" green="0.63786703349999996" blue="0.26147949700000001" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="qgI-ig-YKK" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="AYm-sR-uDs"/>
+                <constraint firstItem="qgI-ig-YKK" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="RNK-RI-LCq"/>
+                <constraint firstItem="qgI-ig-YKK" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" id="zUC-jf-La8"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="image" destination="cCw-0V-gI3" id="4dx-iA-cKB"/>
+                <outlet property="subTitleLabel" destination="xJs-QZ-6VE" id="tV1-w1-ihs"/>
+                <outlet property="titleTabel" destination="5ut-aQ-Kji" id="Og8-j2-HRE"/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image name="ic_onboarding1" width="259" height="178"/>
+    </resources>
+</document>
