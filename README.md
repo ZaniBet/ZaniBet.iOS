@@ -6,11 +6,11 @@
 After 2 years we decide to close the service because of lack of rentability and very high database hosting cost.
 The code source is available for education purpose and **no update has been made since 2018**.
 
-![Screen 1](/assets/screen1.jpeg | width=200)
-![Screen 2 ](/assets/screen2.jpeg | width=200)
-![Screen 3](/assets/screen3.jpeg | width=200)
-![Screen 4](/assets/screen4.jpeg | width=200)
-![Screen 5](/assets/screen5.jpeg | width=200)
+![Screen 1](/assets/screen1.jpeg)
+![Screen 2 ](/assets/screen2.jpeg)
+![Screen 3](/assets/screen3.jpeg)
+![Screen 4](/assets/screen4.jpeg)
+![Screen 5](/assets/screen5.jpeg)
 
 ## Stack
 
